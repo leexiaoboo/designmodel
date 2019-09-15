@@ -1,6 +1,5 @@
 package com.lxb.myproduct.create.factory;
 
-import com.lxb.myproduct.create.factory.simplefactory.Fuite;
 import com.lxb.myproduct.create.factory.simplefactory.FuiteFactroy;
 import org.junit.Test;
 
